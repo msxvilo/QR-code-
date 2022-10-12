@@ -18,7 +18,7 @@ First of all, I create a simple HTML document, then I add everything that I need
 
 
 ## Sollution
-- LIVE url: https://msxvilo.github.io/QR-code-component-/
+- LIVE url: https://msxvilo.github.io/QR-code-/
 - CODE: https://github.com/msxvilo/QR-code-component-
 
 ## Social media
